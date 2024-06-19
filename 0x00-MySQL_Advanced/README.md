@@ -51,6 +51,11 @@ By the end of this project, you should be able to:
 ├── 6-bonus.sql
 ├── 7-average_score.sql
 ├── 8-index_my_names.sql
+├── 9-index_name_score.sql
+├── 10-div.sql
+├── 11-need_meeting.sql
+├── 100-average_weighted_score.sql
+├── 101-average_weighted_score.sql
 ├── README.md
 ```
 
